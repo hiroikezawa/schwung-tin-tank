@@ -1,0 +1,51 @@
+{
+  "title": "TIN TANK",
+  "children": [
+    {
+      "title": "Idea",
+      "lines": [
+        "Lo-fi digital reverb",
+        "after the Accutronics",
+        "BTDR-3 brick: three",
+        "PT2399-style delays",
+        "feeding each other.",
+        "Spring-like, metallic",
+        "a dense multi-tap."
+      ]
+    },
+    {
+      "title": "Knobs",
+      "lines": [
+        "1 MIX   dry <-> wet",
+        "     0% = dry only",
+        "     100% = wet only",
+        "2 DECAY 0.7 .. 3.0 s",
+        "3-8 not used, as the",
+        "original has two."
+      ]
+    },
+    {
+      "title": "Sound",
+      "lines": [
+        "First echo at 67 ms,",
+        "then the echoes",
+        "multiply and darken",
+        "on every pass. One",
+        "delay drifts slowly",
+        "(1 Hz) as in the",
+        "original circuit."
+      ]
+    },
+    {
+      "title": "Where",
+      "lines": [
+        "Mono reverb: the",
+        "same wet on L and R.",
+        "Works in a track",
+        "slot and in Master FX",
+        "(also Send / bus",
+        "inserts)."
+      ]
+    }
+  ]
+}
